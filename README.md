@@ -1,4 +1,4 @@
-# ybrant
+# ybrantworks
 
 1. git clone git@github.com:D3VII/ybrant.git
 2. Install Python (https://www.python.org/ftp/python/3.7.4/python-3.7.4.exe)
