@@ -11,3 +11,6 @@
 7. Runserver (python manage.py runserver)
 
 Server will be running on default port '8000'
+
+-----------------------------------------------------
+version2.zip : old website code as in https://www.ybrantworks.com
